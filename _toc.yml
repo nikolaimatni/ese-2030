@@ -1,6 +1,0 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
-root: 00-intro
-chapters:
-- file: 01-paper.md
