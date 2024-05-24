@@ -10,11 +10,17 @@ project:
   # jupyter: true
   abbreviations:
     MyST: Markedly Structured Text
+    ALA: Applied Linear Algebra by Olver and Shakiban
+    LAA: Linear Algebra and its Applications by Lay, McDonald, and Lay
+    ILA: Introduction to Linear Algebra by Strang
   math:
-    '\dobs': '\mathbf{d}_\text{obs}'
-    '\dpred': '\mathbf{d}_\text{pred}\left( #1 \right)'
-    '\mref': '\mathbf{m}_\text{ref}'
+    '\vv': '\mathbf{#1}'
+    '\bm': '\begin{bmatrix}'
+    '\em': '\end{bmatrix}'
+    '\R': '\mathbb{R}'
   # bibliography: []
+  references:
+    gauss: ./021-linsys-gauss.ipynb
 site:
   template: book-theme
   title: ESE 2030 📏
