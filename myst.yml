@@ -19,8 +19,8 @@ project:
     '\em': '\end{bmatrix}'
     '\R': '\mathbb{R}'
   # bibliography: []
-  references:
-    gauss: ./021-linsys-gauss.ipynb
+  exclude:
+    'linear_algebraic_systems/'
 site:
   template: book-theme
   title: ESE 2030 📏
