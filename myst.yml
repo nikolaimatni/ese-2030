@@ -21,7 +21,6 @@ project:
   # bibliography: []
   exclude:
     'linear_algebraic_systems/'
-    'lecture_notes/'
 site:
   template: book-theme
   title: ESE 2030 📏
