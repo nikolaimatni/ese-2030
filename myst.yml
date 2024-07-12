@@ -4,6 +4,9 @@ project:
   id: b45920fa-856a-4519-ae59-39215dd46733
   title: ESE 2030 - Linear Algebra with Applications to Engineering and AI
   description: Course notes
+  toc:
+    options:
+    - numbered: True
   keywords: []
   authors: [Nikolai Matni]
   github: https://github.com/nikolaimatni/ese-2030
