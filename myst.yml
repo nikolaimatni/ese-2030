@@ -24,6 +24,9 @@ project:
   # bibliography: []
   exclude:
     'linear_algebraic_systems/'
+  numbering:
+    heading_1: true
+    heading_2: true
 site:
   template: book-theme
   title: ESE 2030 📏
