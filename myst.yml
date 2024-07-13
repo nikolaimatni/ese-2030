@@ -27,6 +27,7 @@ project:
   numbering:
     heading_1: true
     heading_2: true
+    heading_3: true
 site:
   template: book-theme
   title: ESE 2030 📏
