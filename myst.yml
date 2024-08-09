@@ -31,9 +31,9 @@ project:
 site:
   template: book-theme
   title: ESE 2030 📏
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: penn-eng-logo.png
   nav: []
   actions:
     # - title: Learn More
