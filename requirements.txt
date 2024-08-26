@@ -4,8 +4,5 @@ numpy
 jupyterlab-myst
 scipy==1.10.1
 scikit-learn
-tensorflow
-tensorflow_datasets
 pandas
-torch
-torchvision
+gensim
