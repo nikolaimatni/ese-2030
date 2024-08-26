@@ -10,5 +10,3 @@ seaborn
 tfds-nightly
 tensorflow_datasets
 tqdm
-torch
-torchvision
