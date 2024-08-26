@@ -24,7 +24,6 @@ project:
   # bibliography: []
   exclude:
     'linear_algebraic_systems/'
-    'old/*.ipynb'
   numbering:
     heading_1: true
     heading_2: true
