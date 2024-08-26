@@ -8,7 +8,6 @@ pandas
 gensim
 seaborn
 tfds-nightly
-tensorflow
 tensorflow_datasets
 tqdm
 torch
