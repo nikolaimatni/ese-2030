@@ -12,4 +12,4 @@ tensorflow_datasets
 tqdm
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==2.3.0+cpu
-torchvision=0.18.1+cpu
+torchvision==0.18.1+cpu
