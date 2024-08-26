@@ -1,0 +1,9 @@
+jupyter-book
+matplotlib
+numpy
+jupyterlab-myst
+scipy==1.10.1
+scikit-learn
+pandas
+gensim
+seaborn
