@@ -25,7 +25,7 @@ All of the information on this page and the next can be found in the [syllabus](
 **TAs**: 	Owen Frausto, Eric Cao, Elliu Huang, Faraz Rahman, John D'Ambrosio, Nicolas Morabito \
 **Course website**: [https://nikolaimatni.github.io/ese-2030/ ](https://nikolaimatni.github.io/ese-2030/) \
 **Lectures:** Tu/Th 5:15pm-6:45pm ET, LRSM Auditorium \
-**Recitations:** Fr 1:45pm-3:15pm, LRSM Auditorium \
+**Recitations:** Fr 1:45pm-3:15pm, **DRL A1 (note updated location)** \
 **Other resources:** We will use CANVAS to disseminate course materials, and Ed Discussion for class related discussions 
 
 ### Office Hours
