@@ -143,22 +143,22 @@ Please note that this is a **_tentative_** outline, and that the topics, their c
 * - 12	
   - 11/12
   -	SINGULAR VALUE DECOMPOSITION: APPLICATIONS TO COVARIANCE MATRICES, SPECTRAL CLUSTERING (FORESHADOW SVD + PCA)
-  -	Hw 7 out
+  -	
   -
 * - 12
   -	11/14
   -	APPLICATIONS OF SVD 1: PCA, Fundamental Theorem of PCA
-  -	
+  -	Hw 7 out
   -	COMPRESSION: EIGENFACES
 * - 13
   -	11/19
   -	APPLICATIONS OF SVD 2: Best Rank-K approximation, RECOMMENDERS, RANKINGS
-  -	Hw 8 out, Hw 7 in
+  -	
   -	RANKING: SPORTS TEAMS, RECOMMENDER SYSTEMS
 * - 13
   -	11/21
   -	INTRO TO OPTIMIZATION, GRADIENT DESCENT \& NEWTON'S METHOD
-  -
+  - Hw 8 out, Hw 7 in
   -	DEEP LEARNING
 * - 14
   -	11/26
